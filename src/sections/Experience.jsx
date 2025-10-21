@@ -1,6 +1,8 @@
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { Environment } from "@react-three/drei";
+
 
 import { expCards } from "../constants";
 import TitleHeader from "../components/TitleHeader";
